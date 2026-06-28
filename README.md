@@ -13,7 +13,7 @@
 
 ### 🛠 Tech Stack
 
-* 💡 **Languages:** Java, C, C++, HTML, CSS, JavaScript, MySQL
+* 💡 **Languages:** Java, C, C++, HTML, CSS, JavaScript
 * 🌐 **Frontend:** React, TypeScript
 * 🔧 **Backend:** Node.js
 * 💾 **Database:** MongoDB, MySql
