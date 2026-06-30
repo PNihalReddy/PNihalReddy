@@ -48,7 +48,7 @@
 ### 🔗 Connect with Me
 
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/nihal-reddy-pakkireddy-545125336/](https://www.linkedin.com/in/nihal-reddy-pakkireddy-545125336/)
-* 📧 **Gmail:** pnihalnr@gmail.com
+* 📧 **Gmail:** nihalreddy1502@gmail.com
 
 ---
 
